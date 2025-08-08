@@ -1,2 +1,2 @@
 # Learning
-Me trying to learn how to IT
+Me trying to learn basics in Python
