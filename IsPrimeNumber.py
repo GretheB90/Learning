@@ -6,9 +6,9 @@ def is_prime(num):
             return False
     return True
 
-Primes = list(filter(is_prime, nums))
+primes = list(filter(is_prime, nums))
 
-print(Primes)
+print(primes)
 
 #If any of those numbers divides evenly (no remainder), it's not a prime
 #If nothing divides it evenly, it's a prime!
